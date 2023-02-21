@@ -1,5 +1,5 @@
 # Movie_Box_Office
-The main goal of this project was to come up with a model to predict the international box office revenue of a movie based off a number of known data. 
+The main goal of this project was to come up with a model to predict the international box office revenue of a movie based on a number of known data. 
 
 
 # Project Description
